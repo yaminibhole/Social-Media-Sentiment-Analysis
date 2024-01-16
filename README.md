@@ -1,4 +1,3 @@
-# PRODIGY_DS_TASK4
 # Social Media Sentiment Analysis
 This repository contains code for analyzing and visualizing sentiment patterns in social media data. The purpose of the project is to gain insights into public opinion and attitudes towards specific topics or brands based on social media content.
 
